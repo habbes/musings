@@ -8,3 +8,5 @@ to better understand and analyse my own thoughts, to clear my working memory for
 for future reference and posterity.
 
 So this will now serve as my journal of thoughts.
+
+Habbes, 23.08.2017
