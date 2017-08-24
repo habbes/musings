@@ -21,10 +21,18 @@ cycle?
 It seems that since the early days of AI, there were still debates and questions
 about whether machines could really be intelligent, whether we could really
 build agents that think or that can achieve things that previously seemed reserved
-to humans and there has been this goal of building "intelligent" agents.
+to humans and there has been this long-standing idea of "intelligent" agents.
 
 I am not sure what exactly it means to be intelligent. But then again, I wonder whether it actually
 matters. If a car can drive itself in a busy city without any accidents and performing
 better than humans at this task, does it really matter whether we think of it as
 intelligent or not? I think that's quite philosphical and not necessarily a relevant
 goal for AI. But then again, what do I know?
+
+Now people are debating about whether AI will one day surpass human intelligence, and there is
+something about singularity. I do not know much about the field at this point,
+but I would say, if we end up creating something
+"smarter" than us or that will take over us, we are either really smart or
+really stupid. But we keep on getting smarter overtime, building on the advancements
+of previous generations. So with we'll probably keep coming up with more and more 
+amazing things as times goes by, but hopefully not our own doom.
