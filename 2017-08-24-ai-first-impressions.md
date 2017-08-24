@@ -3,7 +3,7 @@
 This is the first week of the Artificial Intelligence class, my very first class in the 
 [Georgia Tech OMSCS](https://omscs.gatech.edu) program. I have read a bit of the course textbook, 
 [Articifical Intelligence, a Modern Approach](http://aima.cs.berkeley.edu/) (AIMA), 
-by Stuart Russell and Peter Norvig. It was quite interesting to read about
+by Stuart Russell and Peter Norvig. It was quite mind-opening to read about
 the foundations and history of AI and to see just how broad the field is and how
 many thought-provoking ideas and questions and it has brought to light.
 
