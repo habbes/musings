@@ -15,3 +15,4 @@ A few people gave us very in-depth and insightful feedback. This gave us concret
 
 We hope that by the end of year we'll have people using the product for real work and getting value from it.
 
+PS: I did not participate in the Zindi data science challenge I mentioned in my last post. I got trapped in tutorial hell trying to take the fast.ai course and lost track.
