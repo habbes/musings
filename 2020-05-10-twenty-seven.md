@@ -1,0 +1,10 @@
+# Twenty Seven
+
+Early this year I turned 27 years old. This officially marked the beginning of my "late-twenties". I'm almost thirty now. I couldn't help but wonder whether I'm where I'm supposed to be in life now. Somehow I don't feel ready to be thirty yet, like I haven't figured out all I'm supposed to figure out in my 20's and that 30 my hit me unprepared.
+
+Career-wise, I think I'm on the right track but still have gaps in my knowledge. I don't feel prepared for family life yet. And I haven't had a breakthrough with the startup pursuit. Actually, I think that last thing is the one that bugs me the most, the fact that Alpha Manuscript has still not had a breakthrough. That's what makes me feel like a failure the most.
+
+In order to get a better sense of how I'm doing and where I'm headed, I decided to take a look back. 10 years ago I was 17. A moody, introverted teen who was interested in computers, but had not yet discovered programming. My primary hobby those days was drawing comic books. I had just started playing guitar and had not yet given up video games. So in the span of 10 years I was able to finish secondary school, learn programming, conceive the vision of Manuscript and recruit the first team, learn a new language (I took a German course at some point), work on real-world projects as a freelance developer, start university, graduate, register Alpha Manuscript as a company and restarted with a new team, get a girlfriend, failed at a couple attempts of launching products, be on my third full-time job in software engineering and half-way through a masters in CS.
+
+When I think about it that way, it's not so bad. 20's are for learning, and I've definitely learned a lot. What I'll do is think more specifically about the things I want to have figured out by 30 and create concrete plans to achieving those things in the next 3 years. But looking at how much has happened in the last 10 years, I'm quite optimistic about the next 10 years. A lot can happen in 10 years. But I do hope we get some breakthrough at Manuscript in the next 3 years.
+
